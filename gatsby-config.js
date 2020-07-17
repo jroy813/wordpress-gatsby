@@ -4,7 +4,7 @@ module.exports = {
         {
         resolve: "gatsby-wordpress-theme-phoenix",
         options: {
-            wordPressUrl: 'http://localhost/coloradoliving80907'
+            wordPressUrl: 'http://gatsby.tampa-websites.com'
         }
     } ]
 };
